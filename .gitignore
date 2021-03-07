@@ -1,0 +1,32 @@
+# Project exclude paths
+/.gradle/
+/File Type Analyzer/task/build/
+/File Type Analyzer/task/out/
+/File Type Analyzer/task/out/production/classes/
+/File Type Analyzer/task/out/test/classes/
+/Problems/Alice plays letter cubes (v1)/out/
+/Problems/Alice plays letter cubes (v1)/out/production/classes/
+/Problems/All occurrences/out/
+/Problems/All occurrences/out/production/classes/
+/Problems/Calculating a substring hash/out/
+/Problems/Calculating a substring hash/out/production/classes/
+/Problems/Count the number of merge operations/out/
+/Problems/Count the number of merge operations/out/production/classes/
+/Problems/Finding a string in a matrix (v1)/out/
+/Problems/Finding a string in a matrix (v1)/out/production/classes/
+/Problems/Merge all sequences/out/
+/Problems/Merge all sequences/out/production/classes/
+/Problems/Non-overlapping occurrences/out/
+/Problems/Non-overlapping occurrences/out/production/classes/
+/Problems/Non-overlapping occurrences (1)/out/
+/Problems/Non-overlapping occurrences (1)/out/production/classes/
+/Problems/The first occurrence/out/
+/Problems/The first occurrence/out/production/classes/
+/Problems/The longest repetitive substring/out/
+/Problems/The longest repetitive substring/out/production/classes/
+/Problems/The number of distinct substrings/out/
+/Problems/The number of distinct substrings/out/production/classes/
+/Problems/The number of inversions/out/
+/Problems/The number of inversions/out/production/classes/
+/Problems/The number of required shifts/out/
+/Problems/The number of required shifts/out/production/classes/
